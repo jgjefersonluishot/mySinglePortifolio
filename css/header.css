@@ -19,6 +19,9 @@ header nav {
 }
 
 header h1, a{
-    color: #606364;
+    color: #464848;
     transition: 0.2s ease-in-out;
+}
+header h1:hover, a:hover{
+    color: #fff;
 }
